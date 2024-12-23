@@ -17,4 +17,4 @@ https://github.com/xerofenix/go_CRUD.git
 ``` sh
 go run main.go
 ```
-4. Open the browser and go ``` http://localhost:3000 ``` or ``` http://localhost:3000/posts ```
+4. Open the browser and goto ``` http://localhost:3000 ``` or ``` http://localhost:3000/posts ```
