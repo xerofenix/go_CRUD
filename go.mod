@@ -1,4 +1,4 @@
-module github.com/xerofenix/go_CRUD
+module crud_json
 
 go 1.23.0
 
